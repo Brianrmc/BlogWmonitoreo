@@ -1,0 +1,15 @@
+info: Intento de inicio de sesión {"timestamp":"2024-04-09T16:59:59.494Z","username":"rodi"}
+info: Inicio de sesión exitoso {"timestamp":"2024-04-09T16:59:59.548Z","username":"rodi"}
+info: Intento de inicio de sesión {"timestamp":"2024-04-09T17:00:27.160Z","username":"rodi"}
+info: Inicio de sesión exitoso {"timestamp":"2024-04-09T17:00:27.164Z","username":"rodi"}
+info: Inicio de sesión exitoso para el usuario rodi {"timestamp":"2024-04-09T17:22:14.100Z"}
+error: Intento de inicio de sesión fallido para el usuario rodi {"timestamp":"2024-04-09T17:22:34.493Z"}
+info: Inicio de sesión exitoso para el usuario Soran {"timestamp":"2024-04-09T17:24:11.258Z"}
+info: https://127.0.0.1:5000 {"timestamp":"2024-04-09T17:31:38.993Z"}
+info: Pass cifrado: 645b8fbaef16c732ce0d5d1b18e228ae871a51ce {"timestamp":"2024-04-09T17:31:54.012Z"}
+info: [object Object] {"timestamp":"2024-04-09T17:31:54.071Z"}
+error: Intento de inicio de sesión fallido para el usuario rodi {"timestamp":"2024-04-09T17:31:54.076Z"}
+info: Pass cifrado: 8cb2237d0679ca88db6464eac60da96345513964 {"timestamp":"2024-04-09T17:32:17.080Z"}
+info: [object Object] {"timestamp":"2024-04-09T17:32:17.085Z"}
+info: Inicio de sesión exitoso para el usuario rodi {"timestamp":"2024-04-09T17:32:17.087Z"}
+info: Mensaje insertado correctamente: {"affectedRows":1,"changedRows":0,"fieldCount":0,"insertId":10,"protocol41":true,"serverStatus":2,"timestamp":"2024-04-09T17:33:31.095Z","warningCount":0}

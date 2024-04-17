@@ -1,0 +1,12 @@
+1.npm init
+2.npm install express
+3. crear carpeta public, models, views
+4. Crear el archivo app.js .env
+5. Crear modelo (Server.js)
+6. Crear index (Carpeta public)
+7. npm install dotenv
+8. codificar index
+9. Codificar archivo .env
+10. Codificar archivo server.js
+11. instalar https y fs...npm i https.....npm i fs
+12. Codificar app.js
